@@ -44,7 +44,7 @@ This is an example exercise.
 
 ---
 
-## The Pandas Merge API
+## Using DataFrame.merge
 
 ```yaml
 type: VideoExercise
