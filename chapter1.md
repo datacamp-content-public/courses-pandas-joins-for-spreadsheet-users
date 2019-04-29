@@ -1,46 +1,19 @@
 ---
-title: 'Chapter Title Here'
+title: 'Introduction to Pandas Joins'
 description: 'Chapter description goes here.'
 free_preview: true
 ---
 
-## Example coding exercise
+## (Placeholder for 1.1)
 
 ```yaml
-type: NormalExercise
-key: e8c1edbe67
-lang: python
-xp: 100
-skills: 2
+type: VideoExercise
+key: a30c63e827
+xp: 50
 ```
 
-This is an example exercise.
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
+`@projector_key`
+1f9699ff031f022961562b3579e7a273
 
 ---
 
